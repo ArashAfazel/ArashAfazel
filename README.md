@@ -19,6 +19,9 @@ Passionate about writing clean , efficient code and continuously exploring moder
 <div align="center">
   <h3>Contact</h3
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
