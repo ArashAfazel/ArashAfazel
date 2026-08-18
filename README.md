@@ -16,3 +16,9 @@ Passionate about writing clean , efficient code and continuously exploring moder
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
   </p>
 </div>
+<div align="center">
+  <h3>Contact</h3
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
