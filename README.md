@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**ArashAfazel/ArashAfazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./banner.png" width="100%" alt="profilebanner">
+</div>
+<div align="center">
+  <h1>Know About Me</h1>
+</div>
+<div>
+  <h2 align="center">Hi, I'm Arash</h2>
+  <p align="center"><strong>Front-End Developer | React.js & Next.js</strong></p>
+  <p align="justify">I build modern , scalable , and high-performance web applications with a strong focus on maintainable architecture , reusable components , responsive design , and exceptional user experiences.
+Passionate about writing clean , efficient code and continuously exploring modern technologies and best practices across the web development ecosystem.</p>
+</div>
